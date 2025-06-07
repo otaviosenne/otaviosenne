@@ -1,4 +1,4 @@
 ## Software Engineer
----
-### Computer Science | UFU
-#### Otavio Senne
+#### Computer Science | UFU
+#### ~Otavio Senne
+
